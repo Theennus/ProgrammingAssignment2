@@ -6,6 +6,7 @@
 makeCacheMatrix <- function(x = matrix()) {
      
      nuevo código
+     código 2
 
 }
 
